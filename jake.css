@@ -1,0 +1,19 @@
+.wrapper {
+    height: 350px;
+    width: 350px;
+    padding: 10px;
+    margin: 100px auto;
+    border: 1px solid black
+}
+form {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Inconsolata', monospace;
+}
+input {
+    margin: 5px;
+}
+button {
+    width: 100%;
+    margin-top: 10px;
+}
